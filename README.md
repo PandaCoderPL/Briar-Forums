@@ -12,7 +12,7 @@ List of Briar forums.
 
 ## How to join?
 
-Add me on Briar and I will share selected forums with you.
+Forums can only be shared with contacts so you have to add me to your contacts and then select the forums.
 
 ## How to add your own?
 
