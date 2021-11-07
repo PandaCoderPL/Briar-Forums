@@ -39,6 +39,7 @@ To add your own forum you need to share it with me, so I wil be able to share it
 | Italofoni - Italian speakers        | 1 (+0)    |
 | Kill The Eye                        | 703 (+0)  |
 | KMJ Forum                           | 11 (+0)   |
+| Lemmy                               | 8         |
 | Minecraft                           | 4 (+0)    |
 | Music                               | 7 (+0)    |
 | Nø Internet                         | 22 (+1)   |
