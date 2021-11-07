@@ -34,6 +34,7 @@ To add your own forum you need to share it with me, so I wil be able to share it
 | Fediverse                           | 14 (+0)   |
 | GNU/Linux                           | 191 (+0)  |
 | GrapheneOS                          | 40 (+25)  |
+| Intelligence                        | 3         |
 | Italofoni - Italian speakers        | 1 (+0)    |
 | Kill The Eye                        | 703 (+0)  |
 | KMJ Forum                           | 11 (+0)   |
