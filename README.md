@@ -30,6 +30,7 @@ To add your own forum you need to share it with me, so I wil be able to share it
 | Briar Searchlight                   | 46 (+0)   |
 | Briar vs Session                    | 256 (+18) |
 | Exploring Briar!                    | 414 (+0)  |
+| F-Droid                             | 77        |
 | Fediverse                           | 14 (+0)   |
 | GNU/Linux                           | 191 (+0)  |
 | GrapheneOS                          | 40 (+25)  |
