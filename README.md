@@ -5,7 +5,7 @@ List of Briar forums.
 ## Contents
 
 * [How to join?](#how-to-join)
-* [How to add your own](#how-to-add-your-own)
+* [How to add your own?](#how-to-add-your-own)
 * [Forums](#forums)
 * [Contact](#contact)
 * [License](#license)
