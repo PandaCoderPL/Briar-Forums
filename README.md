@@ -24,18 +24,18 @@ To add your own forum you need to share it with me, so I wil be able to share it
 | :---------------------------------- | :-------: |
 | Anarchy Forum                       | 64 (+0)   |
 | Briar - der Messenger für die Krise | 9 (+0)    |
-| Briar Community Forum               | 657 (+1)  |
+| Briar Community Forum               | 673 (+16) |
 | Briar entdecken                     | 27 (+0)   |
-| Briar Testing Club                  | 77 (+1)   |
+| Briar Testing Club                  | 77 (+0)   |
 | Briar Searchlight                   | 50 (+0)   |
-| Briar vs Session                    | 271 (+9)  |
-| Decentralized World                 | 19 (+3)   |
-| Exploring Briar!                    | 419 (+2)  |
-| F-Droid                             | 105 (+14) |
+| Briar vs Session                    | 303 (+32) |
+| Decentralized World                 | 22 (+3)   |
+| Exploring Briar!                    | 422 (+3)  |
+| F-Droid                             | 109 (+4)  |
 | Fediverse                           | 14 (+0)   |
-| GNU/Linux                           | 194 (+3)  |
-| GrapheneOS                          | 141 (+66) |
-| Intelligence                        | 28 (+10)  |
+| GNU/Linux                           | 195 (+1)  |
+| GrapheneOS                          | 156 (+15) |
+| Intelligence                        | 38 (+10)  |
 | Italofoni - Italian speakers        | 1 (+0)    |
 | Kill The Eye                        | 703 (+0)  |
 | KMJ Forum                           | 11 (+0)   |
@@ -43,10 +43,10 @@ To add your own forum you need to share it with me, so I wil be able to share it
 | Minecraft                           | 4 (+0)    |
 | Music                               | 7 (+0)    |
 | Nø Internet                         | 24 (+0)   |
-| P2P Web                             | 190 (+5)  |
+| P2P Web                             | 196 (+6)  |
 | Pokémon                             | 5 (+0)    |
-| Privacy                             | 373 (+50) |
-| Profile links Only                  | 478 (+31) |
+| Privacy                             | 393 (+20) |
+| Profile links Only                  | 485 (+7)  |
 | Religions                           | 32 (+0)   |
 | Sa                                  | 36 (+0)   |
 | Trans People and Family Support     | 11 (+0)   |
