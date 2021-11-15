@@ -1,28 +1,28 @@
-[Polski](README.pl.md)
+[English](README.md)
 
 # Briar Forums
 
-List of Briar forums.
+Lista forów Briar.
 
-## Contents
+## Spis treści
 
-* [How to join?](#how-to-join)
-* [How to add your own?](#how-to-add-your-own)
-* [Forums](#forums)
-* [Contact](#contact)
-* [License](#license)
+* [Jak dołączyć?](#jak-dołączyć)
+* [Jak dodać swoje własne?](#jak-dodać-swoje-własne)
+* [Fora](#fora)
+* [Kontakt](#kontakt)
+* [Licencja](#licencja)
 
-## How to join?
+## Jak dołączyć?
 
-Forums can only be shared with contacts so you have to add me to your contacts and then select the forums.
+Fora mogą zostać udostępnione jedynie kontaktom, więc musisz mnie dodać do swoich kontaktów, a następnie wybrać fora.
 
-## How to add your own?
+## Jak dodać swoje własne?
 
-To add your own forum you need to share it with me, so I wil be able to share it with other users.
+Aby dodać własne forum, musisz je najpierw udostępnić mi, abym mógł udostępniać je innym użytkownikom.
 
-## Forums
+## Fora
 
-| Name                                | Posts     |
+| Nazwa                               | Posty     |
 | :---------------------------------- | :-------: |
 | Anarchy Forum                       | 64 (+0)   |
 | Briar - der Messenger für die Krise | 9 (+0)    |
@@ -54,10 +54,10 @@ To add your own forum you need to share it with me, so I wil be able to share it
 | Trans People and Family Support     | 11 (+0)   |
 | UFOs and UAPs                       | 59 (+0)   |
 
-## Contact
+## Kontakt
 
-[Contact](https://codeberg.org/PandaCoderPL/PandaCoderPL#contact)
+[Kontakt](https://codeberg.org/PandaCoderPL/PandaCoderPL#contact)
 
-## License
+## Licencja
 
 [MIT](LICENSE)
