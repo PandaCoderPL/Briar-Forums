@@ -18,7 +18,7 @@ Forums can only be shared with contacts so you have to add me to your contacts a
 
 ## How to add your own?
 
-To add your own forum you need to share it with me, so I wil be able to share it with other users.
+To add your own forum you need to share it with me, so I will be able to share it with other users.
 
 ## Forums
 
